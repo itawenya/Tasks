@@ -23,8 +23,12 @@
 3. ==遇到的困难：==
 
    + ~~GitHub任基本打不开 ~~~
-
-   + git需使用不熟悉的Linux命令行执行，总是出现各种意料之外的错误^。^<img src="C:\Users\阿ven\AppData\Roaming\Typora\typora-user-images\image-20211102195715265.png" alt="image-20211102195715265" style="zoom: 80%;" /><img src="C:\Users\阿ven\AppData\Roaming\Typora\typora-user-images\image-20211102200036238.png" alt="image-20211102200036238" style="zoom: 67%;" />
+   + git需使用不熟悉的Linux命令行执行，总是出现各种意料之外的错误`^。^`
+   + ![错误1.png](https://github.com/ITAwenya/Tasks/blob/main/%E9%94%99%E8%AF%AF1.png?raw=true)
+   + ![错误2.png](https://github.com/ITAwenya/Tasks/blob/main/%E9%94%99%E8%AF%AF2.png?raw=true)
+   + ![错误3.png](https://github.com/ITAwenya/Tasks/blob/main/%E9%94%99%E8%AF%AF3.png?raw=true)
+   
+   
 
 
  4.  ==终于我解决==了^但没完全解决^   **！！！** （气急败坏下我开通了VPN 进GitHub的速度快得一）
