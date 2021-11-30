@@ -5,5 +5,6 @@
 2. [阶段二学习笔记](https://github.com/ITAwenya/Tasks/blob/master/%E9%98%B6%E6%AE%B5%E4%BA%8C%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)  *Git的使用和Github*
 3. [阶段三学习笔记](https://github.com/ITAwenya/Tasks/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%89%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20.md)  *HTML&CSS&JavaScript*
 4. [hello](https://github.com/ITAwenya/Tasks/blob/master/hello.md)  
-5. [demo](https://itawenya.github.io/web/)  
-6. [HTML代码](https://github.com/ITAwenya/web/blob/gh-pages/%E7%8E%9B%E5%8D%A1%E5%B7%B4%E5%8D%A1-1.html)
+5. [demo](https://itawenya.github.io/)  
+6. [HTML代码](https://github.com/itawenya/itawenya.github.io/blob/master/index.html)
+7. [css代码](https://github.com/itawenya/itawenya.github.io/blob/master/css.css)
