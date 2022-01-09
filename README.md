@@ -1,9 +1,10 @@
-### 抱歉抱歉之前的默认分支main中有readme这里忘加了啊🧙‍♂️
-我在阶段一ddl前上传的第一个md在main(现用来存图片) 但后续的内容都整合在master（现在是默认）   
-但是时间不一所以我还是保留了main分支以便证明阶段一完成时间  
-1. [阶段一学习笔记](https://github.com/ITAwenya/Tasks/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20.md)  *Markdown学习笔记*
-2. [阶段二学习笔记](https://github.com/ITAwenya/Tasks/blob/master/%E9%98%B6%E6%AE%B5%E4%BA%8C%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)  *Git的使用和Github*
-3. [阶段三学习笔记](https://github.com/ITAwenya/Tasks/blob/master/%E9%98%B6%E6%AE%B5%E4%B8%89%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20.md)  *HTML&CSS&JavaScript*
-4. [hello](https://github.com/ITAwenya/Tasks/blob/master/hello.md)  
-5. [demo](https://itawenya.github.io/web/)  
-6. [HTML代码](https://github.com/ITAwenya/web/blob/gh-pages/%E7%8E%9B%E5%8D%A1%E5%B7%B4%E5%8D%A1-1.html)
+### 真的非常抱歉🥺 第一次提交时疏忽把各个块级弄乱了，我会继续追加的   
+# 检查的同学辛苦了
+# 错误反省：  
++ 前期只是看视频和图文并没有及时coding
++ 我之前只是把不同功能单独尝试（比如悬浮菜单，按钮）并没有整合起来，所以整合起来出现了很多意料之外的错误
++ div使用时没有很好的规范，~~后期使用position：absolute导致混论~~（现已规范）
++ 我会继续改进，以后一定注意 `<div>` 的使用
+1. [demo](https://itawenya.github.io/)  
+2. [HTML代码](https://github.com/itawenya/itawenya.github.io/blob/master/index.html)
+3. [css代码](https://github.com/itawenya/itawenya.github.io/blob/master/css.css)
