@@ -16,8 +16,9 @@
 
 不多BB 先上结果![imgout.jpg](https://github.com/itawenya/Tasks/blob/main/imgout.jpg?raw=true)
 
-根据网上讲解的具体原理大致流程是：
+根据网上讲解的具体原理大致流程是：    
 
 
-
-选取父图片→将父图片用PIL中的Img转为灰度（大概？）→用循环将子图片替代
+选取父图片→将父图片用PIL中的Img转为灰度（大概？）→用循环将子图片替代    
+其中PIL是python的第三方库可以通过 Windows的命令行输入`pip install pil`  
+或者在pycharm中的settings里添加
