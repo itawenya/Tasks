@@ -21,4 +21,5 @@
 
 选取父图片→将父图片用PIL中的Img转为灰度（大概？）→用循环将子图片替代    
 其中PIL是python的第三方库可以通过 Windows的命令行输入`pip install pil`  
-或者在pycharm中的settings里添加
+或者在pycharm中的settings里添加  
+
